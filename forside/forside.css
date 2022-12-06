@@ -97,6 +97,39 @@ padding-bottom: 60px;
 }
 
 .footer {
-  height: 364px;
-  background-color:#DAF3C5;
+ background-color: #DAF3C5;
+}
+
+.ikon-kasse {
+  justify-content: center;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+img {
+  margin-top: 20px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.footer-tlf {
+  align-items: center;
+  display: flex;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer-text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 5px;
 }
