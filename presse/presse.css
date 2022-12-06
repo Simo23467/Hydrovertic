@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2.125rem;
+  color: #3C3C3C;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #3C3C3C;
+  margin-top: 40px;
+}
+
+h4 {
+  font-size: 1.125rem;
+  color: #3C3C3C;
+}
+
+p {
+  font-size: 1rem;
+  color: #3c3c3c;
+  margin-top: 10px;
+}
+
+.nyhed {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 20px;
+}
+
+.presse-kasser p {
+  display: none;
+}
+
+.presse-kasse {
+  background-color: #DAF3C5;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.presse-kasse-1 {
+  background-color: #C6E39C;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.presse-kasse-2 {
+  background-color: #DAF3C5;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.presse-kasse-3 {
+  background-color: #C6E39C;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.presse-kasse-4 {
+  background-color: #DAF3C5;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.presse-kasse-5 {
+  background-color: #C6E39C;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.footer {
+ background-color: #DAF3C5;
+}
+
+.ikon-kasse {
+  justify-content: center;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+img {
+  margin-top: 20px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.footer-tlf {
+  align-items: center;
+  display: flex;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer-text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  padding-top: 5px;
+}
+
+.knap {
+  background-color: #C41F97;
+  color: #F1F1F1;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.knap:hover {
+  background-color: #C41F97A6;
+}
