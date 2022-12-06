@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    height: 100vh;
+    place-items: center;
+}
+
+/*generelt*/
+h1{
+    font-size: 2,125rem;
+    text-align: center;
+}
+h2{
+    font-size: 1,5rem;
+    text-align: left;
+    margin-left: 20px;
+}
+h3{
+    font-size: 1,125rem;
+}
+p {
+    font-size: 1rem;
+}
+
+/* tekst */
+.info-text {
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.facts {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.facts h3{
+    text-align: center;
+}
+
+.process {
+    background-color: #BFE493;
+}
+
+/* time-line*/
+
